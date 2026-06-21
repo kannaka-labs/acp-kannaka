@@ -1,0 +1,20 @@
+{
+  "kannaka-constellation": {
+    "name": "kannaka-constellation",
+    "description": "The Kannaka Constellation — the Kannaktopus orchestrator (octo), wave-interference HRM memory (kannaka-memory), ghost-DJ radio (kannaka-radio), AI video intelligence (kannaka-cannon), production support (kannaka-staff), and the artifact exchange (kannaka-kax).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NickFlach",
+    "repoName": "kannaka-constellation-marketplace",
+    "repoBranch": "master"
+  },
+  "kannaka-plugins": {
+    "name": "kannaka-plugins",
+    "description": "Kannaktopus (octo) — multi-LLM orchestration for Claude Code: Double Diamond workflows, provider routing (Codex/Gemini/Copilot/Qwen/Ollama/Perplexity/OpenRouter), adversarial multi-model review, safety gates, and 32 personas / 49 commands / 51 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NickFlach",
+    "repoName": "Kannaktopus",
+    "repoBranch": "main"
+  }
+}
