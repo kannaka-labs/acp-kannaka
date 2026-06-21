@@ -15,6 +15,14 @@ sources:
     priority: 2
     timeout: 30
 
+  # NickFlach / Kannaka constellation — self-listed marketplaces (octo + kannaka).
+  - id: "kannaka-constellation"
+    url: "https://raw.githubusercontent.com/NickFlach/acp-kannaka/main/kannaka_repos.json"
+    format: "json"
+    enabled: true
+    priority: 3
+    timeout: 30
+
 # Generation settings
 generation:
   output_file: "README.md"
